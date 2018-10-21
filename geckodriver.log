@@ -1,0 +1,1608 @@
+1540094364271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jMuwkUsEPGXj"
+1540094366527	Marionette	INFO	Listening on port 44531
+1540094366584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540094366652	Marionette	DEBUG	[2147483649] Frame script loaded
+1540094366672	Marionette	DEBUG	[2147483649] Frame script registered
+[Parent 6074, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540094380951	Marionette	INFO	Stopped listening on port 44531
+1540094383656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JtRTy5qReMHa"
+1540094385405	Marionette	INFO	Listening on port 41263
+1540094385477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540094385527	Marionette	DEBUG	[2147483649] Frame script loaded
+1540094385529	Marionette	DEBUG	[2147483649] Frame script registered
+1540094385560	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540094385644	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540094385851	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/before.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540094386796	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/before.jsp
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+1540094450201	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1480: TypeError: this._tabPool is null
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js 369 WalkerFront<.getMutations</<
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095145789	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540095322509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HQWEQXM9a2Xp"
+1540095324176	Marionette	INFO	Listening on port 33407
+1540095324222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540095324336	Marionette	DEBUG	[2147483649] Frame script loaded
+1540095324342	Marionette	DEBUG	[2147483649] Frame script registered
+1540095324482	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540095324754	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540095325179	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/before.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095326753	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/before.jsp
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095365134	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 7350, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6315, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540095802696	Marionette	INFO	Stopped listening on port 33407
+1540095802751	Marionette	INFO	Stopped listening on port 41263
+1540095815341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TsJuZJcuokmY"
+1540095816903	Marionette	INFO	Listening on port 38317
+1540095816956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540095817019	Marionette	DEBUG	[2147483649] Frame script loaded
+1540095817023	Marionette	DEBUG	[2147483649] Frame script registered
+1540095817041	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540095817118	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095817787	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540095817908	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095958512	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540095958584	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540095958585	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540095958779	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540095960332	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540096537029	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540096624144	Marionette	DEBUG	[2147483661] Frame script loaded
+1540096624145	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540097178868	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540097235985	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540097335116	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1540097524118	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540097565388	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540097573469	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1540097660112	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540097701236	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1540097774037	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098047769	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098058492	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098058816	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098059049	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098059268	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098059486	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098059704	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540098102664	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+[Parent 8018, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540099644935	Marionette	INFO	Stopped listening on port 38317
+1540103151499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tVmsO0I1wJE6"
+1540103153734	Marionette	INFO	Listening on port 43961
+1540103153813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540103153867	Marionette	DEBUG	[2147483649] Frame script loaded
+1540103153871	Marionette	DEBUG	[2147483649] Frame script registered
+1540103153913	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540103154083	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103160461	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103160653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103663704	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540103683274	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 4912, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540103722631	Marionette	INFO	Stopped listening on port 43961
+1540103726262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JGBiePtTIkec"
+1540103727910	Marionette	INFO	Listening on port 42059
+1540103727984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540103728042	Marionette	DEBUG	[2147483649] Frame script loaded
+1540103728048	Marionette	DEBUG	[2147483649] Frame script registered
+1540103728078	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540103728179	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103729912	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103730028	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103739816	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 5599, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540103765835	Marionette	INFO	Stopped listening on port 42059
+1540103768844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SLU1DhfElULr"
+1540103770354	Marionette	INFO	Listening on port 39349
+1540103770478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540103770536	Marionette	DEBUG	[2147483649] Frame script loaded
+1540103770537	Marionette	DEBUG	[2147483649] Frame script registered
+1540103770558	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540103770666	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103772271	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103772405	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103791388	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103809477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9pxkIw9VOfiF"
+1540103811168	Marionette	INFO	Listening on port 39647
+1540103811201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540103811260	Marionette	DEBUG	[2147483649] Frame script loaded
+1540103811266	Marionette	DEBUG	[2147483649] Frame script registered
+1540103811306	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540103811407	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103813943	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103814067	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103821004	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103831430	Marionette	INFO	Stopped listening on port 39647
+[Parent 5826, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540103974210	Marionette	INFO	Stopped listening on port 39349
+1540103976004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tLkXWVZ2EYz0"
+1540103977574	Marionette	INFO	Listening on port 38949
+1540103977617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540103977671	Marionette	DEBUG	[2147483649] Frame script loaded
+1540103977681	Marionette	DEBUG	[2147483649] Frame script registered
+1540103977714	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540103977829	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540103984183	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103984293	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540103996848	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104017637	Marionette	INFO	Stopped listening on port 38949
+1540104019228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w15sXdmh7Ifl"
+1540104020772	Marionette	INFO	Listening on port 35355
+1540104020838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104020891	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104020893	Marionette	DEBUG	[2147483649] Frame script registered
+1540104020921	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104021090	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104023341	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104023455	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104036221	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 6552, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104055558	Marionette	INFO	Stopped listening on port 35355
+1540104057021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YsI8p8BkGgso"
+1540104058569	Marionette	INFO	Listening on port 41621
+1540104058638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104058697	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104058699	Marionette	DEBUG	[2147483649] Frame script registered
+1540104058729	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104058820	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104063104	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104063229	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+[Parent 6738, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104077198	Marionette	INFO	Stopped listening on port 41621
+1540104078636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oqcUT41ZX3ev"
+1540104080191	Marionette	INFO	Listening on port 41373
+1540104080262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104080322	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104080327	Marionette	DEBUG	[2147483649] Frame script registered
+1540104080361	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104080467	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104083215	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104083342	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+[Parent 6926, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104111166	Marionette	INFO	Stopped listening on port 41373
+1540104113961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5AOF3REjM5Cv"
+1540104115539	Marionette	INFO	Listening on port 43969
+1540104115586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104115634	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104115643	Marionette	DEBUG	[2147483649] Frame script registered
+1540104115678	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104115782	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104117775	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104117891	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104127566	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104137282	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104137493	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104144711	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+[Parent 7121, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104180925	Marionette	INFO	Stopped listening on port 43969
+1540104187170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e6El4i0lfbAW"
+1540104188833	Marionette	INFO	Listening on port 45529
+1540104188896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104188956	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104188957	Marionette	DEBUG	[2147483649] Frame script registered
+1540104188976	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104189070	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104191423	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104191547	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104196250	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104196461	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104203525	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104203553	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104203556	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104203711	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104204522	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540104231830	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540104231863	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540104231864	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104231945	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540104231973	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540104231973	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104232530	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540104232762	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104232814	Marionette	DEBUG	[2147483661] Frame script loaded
+1540104232829	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+[Parent 7319, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104281939	Marionette	INFO	Stopped listening on port 45529
+1540104285721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5rsFWoyblx1N"
+1540104287658	Marionette	INFO	Listening on port 39713
+1540104287740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104287792	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104287801	Marionette	DEBUG	[2147483649] Frame script registered
+1540104287826	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104288009	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104290420	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104290536	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104291826	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104292039	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104297429	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104297460	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104297461	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104297589	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104298351	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540104298376	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540104298397	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540104298397	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104298476	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540104298496	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540104298497	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104299122	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540104299359	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104299446	Marionette	DEBUG	[2147483661] Frame script loaded
+1540104299453	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540104301223	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104301487	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104301718	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104301946	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104302163	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104302379	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104302597	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104302824	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104303056	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104303280	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104303495	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104303712	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104303926	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7585, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540104313748	Marionette	INFO	Stopped listening on port 39713
+1540104317042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZmT4fsUAZDpd"
+1540104318605	Marionette	INFO	Listening on port 38313
+1540104318653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540104318707	Marionette	DEBUG	[2147483649] Frame script loaded
+1540104318711	Marionette	DEBUG	[2147483649] Frame script registered
+1540104318746	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540104318884	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104321515	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104321635	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104322922	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104323135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104328662	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104328695	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540104328696	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104328850	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104329568	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540104329594	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540104329615	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540104329616	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540104329694	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540104329712	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540104329713	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540104330345	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540104330578	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540104330666	Marionette	DEBUG	[2147483661] Frame script loaded
+1540104330683	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540104332442	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104332706	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104332943	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104333170	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104333385	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104333601	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104333815	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104334041	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104334275	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104334499	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104334714	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104334930	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540104335143	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105125837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s5R9c2rCt3g8"
+1540105127387	Marionette	INFO	Listening on port 46455
+1540105127449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105127503	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105127512	Marionette	DEBUG	[2147483649] Frame script registered
+1540105127535	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105127651	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105129281	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105129414	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105130703	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105130916	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105135727	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105135753	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105135754	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105135910	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105136658	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105136678	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105136702	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105136702	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105136778	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105136798	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105136798	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105137378	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105137610	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105137684	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105137699	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105139456	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105139725	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105139994	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105140230	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105140449	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105140669	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105140885	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105141113	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105141348	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105141572	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105141788	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105142006	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105142219	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105156708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RpR4pE9s3Mze"
+1540105158281	Marionette	INFO	Listening on port 43927
+1540105158328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105158379	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105158385	Marionette	DEBUG	[2147483649] Frame script registered
+1540105158422	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105158561	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105160186	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105160318	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105161608	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105161821	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105166550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105166579	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105166582	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105166733	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105167474	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105167497	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105167520	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105167520	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105167597	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105167619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105167619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105168205	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105168437	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105168533	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105168540	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105170323	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105170585	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105170891	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540105227465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LckxVTq5qDDo"
+1540105229156	Marionette	INFO	Listening on port 34155
+1540105229179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105229238	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105229246	Marionette	DEBUG	[2147483649] Frame script registered
+1540105229286	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105229401	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105234304	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105234426	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105235712	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105235925	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105240724	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105240755	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105240756	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105240907	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105241848	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105241870	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105241892	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105241892	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105241968	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105241980	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105241980	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105242658	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105242894	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105242974	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105242991	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105244753	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105245014	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105245279	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+[Parent 8966, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105249576	Marionette	INFO	Stopped listening on port 34155
+[Parent 8691, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 8499, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105265463	Marionette	INFO	Stopped listening on port 43927
+1540105265467	Marionette	INFO	Stopped listening on port 46455
+1540105265522	Marionette	INFO	Stopped listening on port 38313
+1540105275782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GM4GiCttl8MC"
+1540105277368	Marionette	INFO	Listening on port 34757
+1540105277405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105277470	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105277490	Marionette	DEBUG	[2147483649] Frame script registered
+1540105277517	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105282621	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105284220	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105284350	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105285637	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105285851	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105290879	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105290906	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105290906	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105291045	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105291818	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105291841	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105291862	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105291863	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105291948	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105291975	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105291976	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105292614	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105292848	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105292923	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105292938	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105294700	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105320678	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[Parent 9185, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105357911	Marionette	INFO	Stopped listening on port 34757
+1540105360619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ohQPbQXR311c"
+1540105362166	Marionette	INFO	Listening on port 45273
+1540105362229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105362290	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105362293	Marionette	DEBUG	[2147483649] Frame script registered
+1540105362316	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105362414	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105365006	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105365122	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105366414	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105366627	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105371649	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105371682	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105371683	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105371828	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105372720	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105372751	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105372773	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105372774	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105372850	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105372869	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105372870	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105373511	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105373744	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105373828	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105373837	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105375654	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105375913	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105376186	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9414, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105590956	Marionette	INFO	Stopped listening on port 45273
+1540105595948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.agpl08uSAbO8"
+1540105597896	Marionette	INFO	Listening on port 45161
+1540105597962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105598012	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105598015	Marionette	DEBUG	[2147483649] Frame script registered
+1540105598034	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105598134	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105600704	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105600840	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105602127	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105602339	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105607069	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105607100	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105607101	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105607262	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105608039	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105608066	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105608089	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105608089	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105608162	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105608181	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105608184	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105608826	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105609058	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105609186	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105609187	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105610933	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105611197	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540105611504	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105611796	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[Parent 9807, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105652906	Marionette	INFO	Stopped listening on port 45161
+1540105654299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fu6gnvC6Mipc"
+1540105656125	Marionette	INFO	Listening on port 33053
+1540105656218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540105656275	Marionette	DEBUG	[2147483649] Frame script loaded
+1540105656278	Marionette	DEBUG	[2147483649] Frame script registered
+1540105656299	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540105656394	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105659641	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105659765	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105661054	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105661266	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105666049	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105666080	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540105666082	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105666240	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105666998	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540105667024	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540105667047	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540105667047	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540105667133	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540105667162	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540105667162	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540105667799	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540105668039	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540105668105	Marionette	DEBUG	[2147483661] Frame script loaded
+1540105668120	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540105669921	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105670178	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540105670486	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540105670772	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[Parent 10020, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540105677880	Marionette	INFO	Stopped listening on port 33053
+1540106177764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LzJafNX9ARby"
+1540106179963	Marionette	INFO	Listening on port 37755
+1540106179995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540106180134	Marionette	DEBUG	[2147483649] Frame script loaded
+1540106180146	Marionette	DEBUG	[2147483649] Frame script registered
+1540106180183	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540106180455	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106188576	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106189463	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106190778	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106190997	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106196020	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106196150	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106196151	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540106196444	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106197775	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540106197806	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540106197841	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540106197843	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540106197969	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540106197996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540106197997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106198818	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540106199114	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106199307	Marionette	DEBUG	[2147483661] Frame script loaded
+1540106199309	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540106203289	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106203731	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540106204089	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106204458	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11107, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11034, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540106343105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HmMwwho9a5dS"
+1540106345282	Marionette	INFO	Listening on port 42525
+1540106345323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540106345424	Marionette	DEBUG	[2147483649] Frame script loaded
+1540106345431	Marionette	DEBUG	[2147483649] Frame script registered
+1540106345505	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540106345804	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106350234	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106350402	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106351726	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106351946	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106356786	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106356840	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540106356841	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540106357093	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106358351	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540106358390	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540106358420	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540106358421	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540106358540	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540106358574	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540106358574	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540106359313	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540106359578	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540106359817	Marionette	DEBUG	[2147483661] Frame script loaded
+1540106359818	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540106362172	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106362489	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540106362939	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106363372	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106363759	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106364153	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106366921	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106367318	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106369035	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106369458	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106369855	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106370284	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106370688	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106371082	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106371491	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106372905	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106373340	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106373765	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106374172	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106374606	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106375005	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106375404	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106376669	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106377055	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106379954	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106380342	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106380765	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106381192	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106381590	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106383327	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106383712	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106384104	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106385329	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106385725	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106387177	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106387588	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106387994	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106388390	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106388813	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106389223	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106389693	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106390091	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106396376	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540106396781	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11691, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540107598285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4Ptl3UKic119"
+1540107599865	Marionette	INFO	Listening on port 33713
+1540107599909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540107599976	Marionette	DEBUG	[2147483649] Frame script loaded
+1540107599978	Marionette	DEBUG	[2147483649] Frame script registered
+1540107600012	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540107600179	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107601555	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107601745	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107603032	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107603245	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107608166	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107608196	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107608198	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107608366	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107609113	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540107609137	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540107609157	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540107609157	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107609236	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540107609256	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540107609256	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107609858	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540107610089	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107610175	Marionette	DEBUG	[2147483661] Frame script loaded
+1540107610185	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540107612142	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107612425	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540107612816	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107613202	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107613433	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107613662	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107614029	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107614400	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107614634	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107614862	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107615228	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107615590	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107615819	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107616050	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107616413	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107616784	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107617013	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107617239	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107617823	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107618196	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107618427	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107618662	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107619053	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107619434	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107619665	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107619896	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107620268	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107620647	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107620880	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107621106	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107621473	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107621840	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107622070	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107622299	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107622660	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107623030	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107623257	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107623484	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107623847	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107624214	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107624449	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107624682	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107625054	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107625431	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107625684	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107626073	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107626485	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107626716	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107627114	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107636211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AF0fYoUSZHoZ"
+1540107637756	Marionette	INFO	Listening on port 34055
+1540107637836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540107637894	Marionette	DEBUG	[2147483649] Frame script loaded
+1540107637901	Marionette	DEBUG	[2147483649] Frame script registered
+1540107637927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540107638023	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107640669	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107640796	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107642081	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107642294	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107647182	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107647213	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107647214	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107647348	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107648148	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540107648171	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540107648195	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540107648195	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107648328	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540107648348	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540107648348	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107648942	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540107649191	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107649255	Marionette	DEBUG	[2147483661] Frame script loaded
+1540107649269	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540107651083	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107651349	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+1540107651647	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107651922	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107652151	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107652443	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107652716	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107652949	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107653236	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107653521	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107653749	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107654037	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107654319	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107654552	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107654904	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107655204	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107655433	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107655738	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107656036	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107656299	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107656542	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107656846	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107657144	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107657375	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107657651	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107657958	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107658203	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107658495	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107658797	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107659030	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107659320	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107659617	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107659847	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+1540107660135	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+[Child 12935, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540107693681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VdFh6RIFDrY1"
+1540107695314	Marionette	INFO	Listening on port 37009
+1540107695389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540107695445	Marionette	DEBUG	[2147483649] Frame script loaded
+1540107695446	Marionette	DEBUG	[2147483649] Frame script registered
+1540107695459	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540107697320	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107705554	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107705859	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107707144	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107707359	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107712127	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107712154	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+1540107712155	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/modules/ngen/login/NEQU1020E.xrf?menu_pgm_id=NEQU00.NEQU1020E.00
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107712490	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107713504	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main.jsp
+1540107713529	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://krf.korea.ac.kr/main.jsp
+1540107713566	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://krf.korea.ac.kr/main.jsp
+1540107713566	Marionette	DEBUG	[2147483649] Received DOM event unload for https://krf.korea.ac.kr/main.jsp
+JavaScript warning: https://krf.korea.ac.kr/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1540107713648	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://krf.korea.ac.kr/main_con.jsp
+1540107713668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1540107713668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+1540107714272	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://krf.korea.ac.kr/main_con.jsp
+1540107714519	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540107714618	Marionette	DEBUG	[2147483661] Frame script loaded
+1540107714620	Marionette	DEBUG	[2147483661] Frame script registered
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+1540107716879	Marionette	DEBUG	[2147483661] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://krf.korea.ac.kr/exria.js, line 81724: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/script/exria/ExtUtils.js, line 2576: unreachable code after return statement
+JavaScript warning: https://krf.korea.ac.kr/eXria/lib/gridex/GridE.js line 41 > eval, line 1: unreachable code after return statement
