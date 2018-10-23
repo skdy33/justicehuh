@@ -14,13 +14,13 @@ ID = 'huh324'
 pwd = 'adgzcb135'
 local_num = '3811'
 start_date_x = 5
-start_date_y = 2
+start_date_y = 4
 start_hour = 1
 start_minute = 0
 end_date_x = 5
-end_date_y = 2
+end_date_y = 4
 end_hour = 2
-end_minute = 0 
+end_minute = 0
 
 
 if __name__=="__main__":
@@ -51,30 +51,36 @@ if __name__=="__main__":
 
     driver.get('https://krf.korea.ac.kr/main_con.jsp')
 
-    reserve = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[1]/div/div[2]/table/tbody/tr/td[4]/a')
 
-    reserve.click()
-
-    driver.window_handles
-
-    driver.switch_to_window(driver.window_handles[1])
-
-    while(1):
-        try:
-            local_num = driver.find_element_by_id('ipbExcesivoNo_text')
-            local_num.click()
-            local_num.send_keys('3811')
-            break
-        except:
-            pass
 
 
     while(1):
+        if(len(driver.window_handles)==2):
+            driver.close()
+            driver.switch_to_window(driver.window_handles[0])
+
+        reserve = driver.find_element_by_xpath('/html/body/div/div/div/div[1]/div[1]/div/div[2]/table/tbody/tr/td[4]/a')
+
+        reserve.click()
+        print(len(driver.window_handles))
+
+
+        driver.switch_to_window(driver.window_handles[1])
+
+        while(1):
+            try:
+                local_num = driver.find_element_by_id('ipbExcesivoNo_text')
+                local_num.click()
+                local_num.send_keys('3811')
+                break
+            except:
+                pass
+
         while(1):
             from_d = driver.find_element_by_xpath('//*[@id="dipBillDtFrom_icon"]')
             from_d.click()
             try:
-                start_d = driver.find_element_by_xpath("/html/body/div[4]/table/tfoot/tr[%s]/td[%s]/div" % (3+start_date_x, 1+ start_date_y)) 
+                start_d = driver.find_element_by_xpath("/html/body/div[4]/table/tfoot/tr[%s]/td[%s]/div" % (3+start_date_x, 1+ start_date_y))
                 start_d.click()
                 break
             except:
@@ -86,6 +92,8 @@ if __name__=="__main__":
         except:
             print("done")
             break
+
+
     start_d = driver.find_element_by_xpath("/html/body/div[4]/table/tfoot/tr[%s]/td[%s]/div" % (3+start_date_x, 1+ start_date_y)) 
     start_d.click()
 
