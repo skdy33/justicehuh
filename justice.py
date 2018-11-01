@@ -14,13 +14,13 @@ ID = 'huh324'
 pwd = 'adgzcb135'
 local_num = '3811'
 start_date_x = 5
-start_date_y = 4
+start_date_y = 2
 start_hour = 1
 start_minute = 0
-end_date_x = 5
-end_date_y = 4
 end_hour = 2
 end_minute = 0
+end_date_x = start_date_x
+end_date_y = start_date_y
 
 
 if __name__=="__main__":
@@ -94,8 +94,6 @@ if __name__=="__main__":
             break
 
 
-    start_d = driver.find_element_by_xpath("/html/body/div[4]/table/tfoot/tr[%s]/td[%s]/div" % (3+start_date_x, 1+ start_date_y)) 
-    start_d.click()
 
     open_start_h = driver.find_element_by_xpath('//*[@id="cbbUseStHh_btn"]')
     open_start_h.click()
@@ -129,3 +127,12 @@ if __name__=="__main__":
 
     reserve_button = driver.find_element_by_xpath('//*[@id="btnSave_btn"]')
     reserve_button.click()
+    while(1):
+        try:
+            alert = driver.switch_to_alert()                                                                                                                                                                
+            alert.accept()                                                                                                                                                                                  
+            break
+        except:
+            pass
+
+
